@@ -1,0 +1,26 @@
+{
+    "title": "IMG_9999.HEIC",
+    "description": "",
+    "imageViews": "0",
+    "creationTime": {
+        "timestamp": "1719603369",
+        "formatted": "28 jun 2024, 19:36:09 UTC"
+    },
+    "photoTakenTime": {
+        "timestamp": "1719603167",
+        "formatted": "28 jun 2024, 19:32:47 UTC"
+    },
+    "geoData": {
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "altitude": 0.0,
+        "latitudeSpan": 0.0,
+        "longitudeSpan": 0.0
+    },
+    "url": "https://photos.google.com/photo/ExAmPlE_UrL_To_FiLe9999",
+    "googlePhotosOrigin": {
+        "mobileUpload": {
+            "deviceType": "IOS_PHONE"
+        }
+    }
+}
